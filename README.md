@@ -16,7 +16,3 @@ The project consists of the following steps:
 
 ## Results
 <img src="src/extra_result.png" height="370">
-=======
-### results
-<img src="src/extra_results.png">
-
