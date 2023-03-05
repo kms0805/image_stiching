@@ -13,10 +13,10 @@ The project consists of the following steps:
 4. Estimate the homography matrix between each pair of adjacent images using RANSAC and DLT.
 5. Warp the images using the homography matrices to align them, and stitch them together to create a panoramic image.
 
-<<<<<<< HEAD
+
 ## Results
 <img src="src/extra_result.png" height="370">
 =======
 ### results
 <img src="src/extra_results.png">
->>>>>>> f8b435dca298ab3a20790dbe4013480572f11ae1
+
