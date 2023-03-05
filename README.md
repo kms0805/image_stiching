@@ -13,4 +13,4 @@ The project consists of the following steps:
 5. Warp the images using the homography matrices to align them, and stitch them together to create a panoramic image.
 
 ### results
-<img src="src/extra_results">
+<img src="src/extra_results.png">
